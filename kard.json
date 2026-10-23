@@ -1,0 +1,29 @@
+{
+  "kind": "kard.v1",
+  "name": "fallseed-law",
+  "title": "FallSeed",
+  "retires": "a law-firm toolkit",
+  "category": "Legal",
+  "license": "MIT",
+  "live": "https://sjgant80-hub.github.io/fallseed-law/",
+  "repo": "https://github.com/sjgant80-hub/fallseed-law",
+  "studs": {
+    "brain": {
+      "how": "inline",
+      "version": "3.1.0"
+    },
+    "mesh": {
+      "device": true,
+      "peer": false
+    },
+    "memory": {
+      "indexeddb": true,
+      "localstorage": false
+    },
+    "proof": {
+      "workflows": 1,
+      "tests": 1
+    }
+  },
+  "fits": true
+}
